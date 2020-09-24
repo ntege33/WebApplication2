@@ -1,5 +1,4 @@
-# WebApplication2
-https://github.com/ntege33/test_case.git
+
 ### test_case
 Web based system where store manager can upload csv into a system and have a tabular display
 ### Table of Contents
